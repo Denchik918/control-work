@@ -1,0 +1,14 @@
+C:\Users\Денчик Гаубица\Desktop\krr\bin\Debug\net8.0\krr.exe
+C:\Users\Денчик Гаубица\Desktop\krr\bin\Debug\net8.0\krr.deps.json
+C:\Users\Денчик Гаубица\Desktop\krr\bin\Debug\net8.0\krr.runtimeconfig.json
+C:\Users\Денчик Гаубица\Desktop\krr\bin\Debug\net8.0\krr.dll
+C:\Users\Денчик Гаубица\Desktop\krr\bin\Debug\net8.0\krr.pdb
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\krr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\krr.AssemblyInfoInputs.cache
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\krr.AssemblyInfo.cs
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\krr.csproj.CoreCompileInputs.cache
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\krr.dll
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\refint\krr.dll
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\krr.pdb
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\krr.genruntimeconfig.cache
+C:\Users\Денчик Гаубица\Desktop\krr\obj\Debug\net8.0\ref\krr.dll
