@@ -13,3 +13,14 @@ void SelectionOfWords(string[] str1, string[] str2)
         }
     }
 }
+
+void ShowArr(string[] str)
+{
+    for (int i = 0; i < str.Length; i++)
+    {
+        System.Console.WriteLine($"{str[i]}");
+    }
+
+}
+SelectionOfWords(str1, str2);
+ShowArr(str2);
